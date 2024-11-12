@@ -1,0 +1,16 @@
+Random User Generator
+
+Create a new React app and push the repo to github, then checkout to a new branch and continue working on new branch
+The endpoint information and docs can be found at https://randomuser.me/documentation
+The app should list random users acquired from get request to https://randomuser.me/api/?results=50
+
+Create a page users/:id where you can list all the data for selected user.. Since you can’t get a user by id from endpoint, save the clicked user data in local storage before navigating.
+Optionally create a gender filter by adding a query parameter to the endpoint https://randomuser.me/api/?gender=female
+
+
+Random User Generator | Documentation
+https://randomuser.me
+
+https://randomuser.me/documentation
+
+https://randomuser.me/api/?results=50
